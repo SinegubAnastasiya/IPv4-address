@@ -1,0 +1,18 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: max-content;
+    height: 100vh;
+}
+
+.wrapper h1 {
+    font: 600 50px Montserrat;
+    color: #fff;
+}
+
+.wrapper p {
+    font: 600 20px Montserrat;
+    color: #fff;
+}
